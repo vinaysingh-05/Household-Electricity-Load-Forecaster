@@ -1,5 +1,29 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Datasets & CSV files (Kyunki ye heavy hote hain)
 data/
 *.csv
 *.txt
-__pycache__/
-.ipynb_checkpoints/
+
+# CatBoost and ML logs/info
+*.catboost_info/
+runs/
+wandb/
+
+# IDE files
+.vscode/
+.idea/

@@ -55,6 +55,7 @@ An End-to-End Machine Learning Regression System
 <summary><b>🔍 Dataset Overview</b></summary>
 
 This project uses a household electricity consumption dataset containing multiple measurements related to energy usage.
+</details>
 
 ### 🎯 Prediction Target
 
@@ -174,7 +175,7 @@ Global_active_power
              │ 🚀 FUTURE INFERENCE  │
              └──────────────────────┘
 
----
+```
 
 <div align="center">
 
